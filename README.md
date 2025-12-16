@@ -62,4 +62,4 @@ Licença e créditos
 MIT
 
 ---
-Feito com 💚 — 
+Feito com 💚
