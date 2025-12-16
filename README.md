@@ -27,8 +27,6 @@ Como executar localmente
 
 1. Abra `index.html` no navegador (duplo-clique ou via PowerShell):
 
-```powershell
-Start-Process 'C:\Users\Pichau\Documents\Programming\Github Copilot\Calc CO2\index.html'
 ```
 
 2. Preencha `Origin` e `Destination`. A distância será preenchida automaticamente quando possível (usa Nominatim). Marque "Enter distance manually" para inserir um valor próprio.
